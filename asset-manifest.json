@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmnestle/static/css/main.e631218a.css",
+    "main.js": "/filmnestle/static/js/main.ffce3e0d.js",
+    "index.html": "/filmnestle/index.html",
+    "static/media/search.svg": "/filmnestle/static/media/search.7e1f015d8354467a2e28fef3b75f46ca.svg",
+    "main.e631218a.css.map": "/filmnestle/static/css/main.e631218a.css.map",
+    "main.ffce3e0d.js.map": "/filmnestle/static/js/main.ffce3e0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e631218a.css",
+    "static/js/main.ffce3e0d.js"
+  ]
+}
